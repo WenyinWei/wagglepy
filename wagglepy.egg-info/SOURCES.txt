@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+test/test.py
+wagglepy/__init__.py
+wagglepy.egg-info/PKG-INFO
+wagglepy.egg-info/SOURCES.txt
+wagglepy.egg-info/dependency_links.txt
+wagglepy.egg-info/top_level.txt
+wagglepy/symutil/__init__.py
+wagglepy/symutil/basics.py
+wagglepy/symutil/characteristics.py
+wagglepy/symutil/op.py

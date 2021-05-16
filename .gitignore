@@ -1,0 +1,5 @@
+/build
+/dist
+/sinupy.egg-info
+*-checkpoint.ipynb
+*.pyc
